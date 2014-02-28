@@ -1,0 +1,6 @@
+albocoin
+rpc = 38990
+p2p = 38991
+total coins = 750000000
+coins per block = 500
+superblocks = yes random seed
