@@ -1,7 +1,7 @@
 # albocoin [ALB]
 http://albocoin.org
 
- <div class="mhl" style="text-align: center;"><img src="http://shoqatakosovalindore.ipage.com/alc/alcuploads/alb_logo_small.png" alt="" width="289" height="291" align=center /></div> 
+ <div class="mhl" style="text-align: center;"><img src="http://albocoin.org/alcuploads/alb_logo_small.png" alt="" width="289" height="291" align=center /></div> 
 
 #What is Albocoin ?
 Albocoin is a Peer-to-Peer Crypto Currency based on Bitcoin's open source software. Scrypt based hashing algorithm providing worldwide payment method with maximum security. Nobody owns it, the client is maintained by a community of open-source developers known as Albocoingroup and everybody can join. The difference from Bitcoin is that it can be mined with CPU and GPU offering solution for regular computers and GPUs most people already have. The Albocoin is designed to produce 1.2 billion Coins. The initial network is designed to handle the transactions in timely matter and with no delays.
