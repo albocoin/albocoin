@@ -1,14 +1,15 @@
 # albocoin [ALB]
 http://albocoin.org
 
- <div class="mhl" style="text-align: center;"><img src="http://albocoin.org/alc/alcuploads/alb_logo_small.png" alt="" width="289" height="291" align=center /></div> 
+ <div class="mhl" style="text-align: center;"><img src="http://shoqatakosovalindore.ipage.com/alc/alcuploads/alb_logo_small.png" alt="" width="289" height="291" align=center /></div> 
 
 #What is Albocoin ?
-Albocoin is a Peer-to-Peer Crypto Currency based on Bitcoin's open source software. Scrypt based hashing algorithm providing worldwide payment method with maximum security. Nobody owns it, the client is maintained by a community of open-source developers known as Albocoingroup and everybody can join. The difference from Bitcoin is that it can be mined with CPU and GPU offering solution for regular computers and GPUs most people already have. The Albocoin is designed to produce 750 million Coins, where transactions are manageable. The initial network is designed to handle the transactions in timely matter and with no delays.
-	750 million coins total
-	500 Coin reward per block
-	Default RPC mining port is 38990
-	Block target is 5 minutes
+Albocoin is a Peer-to-Peer Crypto Currency based on Bitcoin's open source software. Scrypt based hashing algorithm providing worldwide payment method with maximum security. Nobody owns it, the client is maintained by a community of open-source developers known as Albocoingroup and everybody can join. The difference from Bitcoin is that it can be mined with CPU and GPU offering solution for regular computers and GPUs most people already have. The Albocoin is designed to produce 1.2 billion Coins. The initial network is designed to handle the transactions in timely matter and with no delays.
+
+* 1.25 billion coins total
+*	500 Coin reward per block
+* Default RPC mining port is 38991
+*	Block target is 5 minutes
 
 
 ## License
@@ -26,10 +27,10 @@ Behind the scenes, the Albocoin network is sharing a public ledger called the �
 #Who Controls Albocoin Network ?
 Albocoin Network is not owned by anyone, it is controlled by Albocoin users around the World. Albocoingroup Developers work continuously on improving the security and bug fixes. All users are free to choose what software and version they use. In order to stay compatible with each other, all users need to use software complying with the same rules.
 
-# How much ALC can exist?
-Total of 750,000,000 coins
+# How much ALB can exist?
+Total of 1,250,000,000 coins
 
-# How get ALC?
+# How get ALB?
 Scrypt Proof of Work
 
 
