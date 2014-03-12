@@ -75,8 +75,8 @@ Value dumpprivkey(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() != 1)
         throw runtime_error(
-        "dumpprivkey <dogecoinaddress>\n"
-        "Reveals the private key corresponding to <dogecoinaddress>.");
+        "dumpprivkey <albocoinaddress>\n"
+        "Reveals the private key corresponding to <albocoinaddress>.");
 
     string strAddress = params[0].get_str();
     CBitcoinAddress address;
