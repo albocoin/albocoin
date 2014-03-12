@@ -295,10 +295,10 @@ void ThreadIRCSeed2(void* parg)
         }
         
         if (fTestNet) {
-            Send(hSocket, "JOIN #dogecoinTEST3\r");
-            Send(hSocket, "WHO #dogecoinTEST3\r");
+            Send(hSocket, "JOIN #albocoinTEST3\r");
+            Send(hSocket, "WHO #albocoinTEST3\r");
         } else {
-            // randomly join #dogecoin00-#dogecoin99
+            // randomly join #albocoin00-#albocoin99
             // network is now over 3k peers , get them to join 50 random channels!
             //            channel_number = 0; 
             int channel_number = GetRandInt(50);
